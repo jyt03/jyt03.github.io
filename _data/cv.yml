@@ -1,0 +1,103 @@
+before-pubs:
+  -
+    heading: Education
+    items:
+      -
+        title: Ph.D
+        year: September 2017 - Nov 2021
+        detail: University of Edinburgh
+      -
+        title: M.S by Research in Computer Science
+        year: 2017
+        detail: IIIT Hyderabad
+      -
+        title: B.E
+        year: 2005
+        detail: K.J. Somaiya College of Engineering, Mumbai University
+after-pubs:
+  -
+    heading: Awards
+    items:
+      -
+        title: Global Research Scholarship
+        year: 2017
+        detail: For PhD studies at University of Edinburgh
+      -
+        title: Microsoft Travel Grant
+        year: 2016
+        detail: For presenting work at NAACL 2016
+  -
+    heading: Teaching
+    subsections:
+      -
+        heading: University courses
+        items:
+          -
+            title: Tutor, Demonstrator and Marker for Natural Language Understanding, Generation, and Machine Translation
+            year: 2021
+            detail:
+          -
+            title: Tutor for Accelerated Natural Language Processing
+            year: 2018
+            detail:
+
+
+  -
+    heading: Mentoring Experience
+    items:
+      -
+        title: Jaavid Akhtar
+        detail: Research Intern at IIT Madras on "RomanSetu- Efficiently unlocking multilingual capabilities of Large Language Models via Romanization" (2023)
+      -
+        title: Nandini Mundhra
+        detail: M.S. by Research student from IIT Madras on "A Comprehensive Analysis of Adapter Efficiency" (2023)
+      -
+        title: Aswanth Kumar
+        detail: MTech student from IIT Madras on "In-context Example Selection for Machine Translation Using Multiple Features" (2023)
+      -
+        title: Yuting Tang
+        detail: Undergraduate student from NTU Singapore on LLM evaluation (2023)
+      -
+        title: Vernon Toh
+        detail: Undergraduate student from SUTD Singapore on Math Language Models (2023)
+      -
+        title: Himani Shrotriya, Aman Kumar, and Prachi Sahu
+        detail: MTech students from IIT Madras on the project "IndicNLG Benchmark- Multilingual Datasets for Diverse NLG Tasks in Indic Languages" (2022)
+
+  -
+    heading: Volunteering
+    subsections:
+      -
+        heading:
+        items:
+          -
+            title: Digital Ambassador at University of Edinburgh
+            detail: Volunteer as a Digital Ambassador to help improve digital literacy amongst people, mainly elderly persons in community
+
+  -
+    heading: Research Positions
+    items:
+      -
+        title: Intern in the Summarization team
+        year: Jun 2019&ndash;Oct 2019
+        detail: Google Research, London
+      -
+        title: Research Assistant
+        year: Mar 2017&ndash;Aug 2017
+        detail: SUTD NLP Lab, Singapore
+      -
+        title: Research Engineer
+        year: May 2014&ndash;Dec 2014
+        detail: IIT Bombay NLP Lab
+
+  -
+    heading: Engineering Positions
+    items:
+      -
+        title: Technical Architect
+        year: 2008&ndash;2014
+        detail: Saba Software
+      -
+        title: Software Engineer
+        year: 2005&ndash;2008
+        detail: Infosys Technologies Ltd

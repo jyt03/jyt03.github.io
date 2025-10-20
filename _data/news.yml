@@ -1,0 +1,67 @@
+items:
+  - date: "12 Jun 2025"
+    description: "Paper on self-pretraining for genome modeling accepted to ICML 2025 Workshop on Generative AI for Biology"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2506.17766"
+
+  - date: "16 May 2025"
+    description: "RomanLens to appear in Findings of ACL 2025"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2502.07424"
+
+  - date: "11 Feb 2025"
+    description: "RomanLens paper on latent romanization in multilingual LLMs"
+    links:
+      - title: "Paper"
+        url: "https://arxiv.org/abs/2502.07424"
+
+  - date: "25 Sep 2024"
+    description: "Paper on vocabulary expansion and initialization strategies for LLMs accepted to CoNLL 2024"
+    links:
+      - title: "Paper"
+        url: "https://aclanthology.org/2024.conll-1.8/"
+
+  - date: "13 Jun 2024"
+    description: "VerityMath paper accepted to AI4Math workshop at ICML 2024"
+    links:
+      - title: "Paper"
+        url: "https://openreview.net/forum?id=S9utaRXaZt"
+
+  - date: "16 May 2024"
+    description: "Two papers accepted to ACL: RomanSetu and a paper on Indic MT Eval"
+    links:
+      - title: "RomanSetu Preprint"
+        url: "https://arxiv.org/abs/2401.14280"
+      - title: "Indic MT Eval Preprint"
+        url: "https://arxiv.org/abs/2406.03893"
+  - date: "25 Jan 2024"
+    description: "Introducing Airavata, Hindi Instruction-tuned LLM "
+    links:
+      - title: "Blog"
+        url: "https://ai4bharat.github.io/airavata/"
+  - date: "24 Jan 2024"
+    description: "RomanSetu for unlocking multilingual capabilities of Large Language Models via Romanization"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2401.14280"
+  - date: "21 Nov 2023"
+    description: "IndicTrans2 is accepted to Transactions of Machine Learning Research (TMLR)"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2305.16307"
+
+  - date: "13 Nov 2023"
+    description: "VerityMath for applying unit consistency check for math problem solving"
+    links:
+      - title: "Preprint"
+        url: "https://arxiv.org/abs/2311.07172"
+
+  - date: "9 Oct 2023"
+    description: "Two papers accepted to EMNLP. DecoMT is accepted to Main and CTQScorer to Findings"
+    links:
+      - title: "DecoMT Preprint"
+        url: "https://arxiv.org/abs/2305.14105"
+      - title: "CTQScorer Preprint"
+        url: "https://arxiv.org/abs/2305.13085"

@@ -1,0 +1,226 @@
+papers:
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2025
+    title: "RomanLens: The Role Of Latent Romanization In Multilinguality In LLMs"
+    authors: "Alan Saji, Jaavid Aktar Husain, Thanmay Jayakumar, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully"
+    booktitle: "Findings of the 63rd Annual Meeting of the Association for Computational Linguistics"
+    doc-url: https://arxiv.org/abs/2502.07424
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2025
+    title: "Improving Genomic Models via Task-Specific Self-Pretraining"
+    authors: "Sohan Mupparapu, Parameswari Krishnamurthy, Ratish Puduppully"
+    booktitle: "Proceedings of the Workshop on Generative AI for Biology at the 42nd International Conference on Machine Learning"
+    doc-url: https://arxiv.org/abs/2506.17766
+    venue: workshop
+  - layout: paper
+    selected: no
+    paper-type: preprint
+    year: 2024
+    title: "Airavata: Introducing Hindi Instruction-tuned LLM"
+    authors: "Jay Gala, Thanmay Jayakumar, Jaavid Aktar Husain, Aswanth Kumar M, Mohammed Safi Ur Rahman Khan, Diptesh Kanojia, Ratish Puduppully, Mitesh M. Khapra, Raj Dabre, Rudra Murthy, Anoop Kunchukuttan"
+    doc-url: https://arxiv.org/abs/2401.15006
+    venue: arXiv
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2024
+    title: "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization"
+    authors: "Jaavid Aktar Husain, Raj Dabre, Aswanth Kumar, Ratish Puduppully, Anoop Kunchukuttan"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics"
+    doc-url: https://arxiv.org/abs/2401.15006
+    venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2024
+    title: "How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?"
+    authors: "Anushka Singh, Ananya B. Sai, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Mitesh M. Khapra"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Short Papers)"
+    doc-url: https://arxiv.org/abs/2406.03893
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2024
+    title: "VerityMath: Advancing Mathematical Reasoning by Self-Verification Through Unit Consistency"
+    authors: "Vernon Toh, Ratish Puduppully, Nancy F. Chen"
+    booktitle: "AI4Math Workshop at ICML"
+    doc-url: https://openreview.net/forum?id=S9utaRXaZt
+    venue: workshop
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2023
+    title: "Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models"
+    authors: "Ratish Puduppully, Anoop Kunchukuttan, Raj Dabre, Ai Ti Aw, Nancy F. Chen"
+    booktitle: "Proceedings of EMNLP"
+    doc-url: https://arxiv.org/abs/2305.13085
+    venue: conference
+    code: https://github.com/ratishsp/DecoMT
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2023
+    title: "CTQScorer: Combining Multiple Features for In-context Example Selection for Machine Translation"
+    authors: "Aswanth Kumar, Ratish Puduppully, Raj Dabre, Anoop Kunchukuttan"
+    booktitle: "Findings of EMNLP"
+    doc-url: https://arxiv.org/abs/2305.14105
+    venue: conference
+    code: https://github.com/AI4Bharat/CTQScorer
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2023
+    title: "IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages"
+    authors: "AI4Bharat, Jay Gala, Pranjal A. Chitale, Raghavan AK, Sumanth Doddapaneni, Varun Gumma, Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully, Vivek Raghavan, Pratyush Kumar, Mitesh M. Khapra, Raj Dabre, Anoop Kunchukuttan"
+    booktitle: "Transactions of Machine Learning Research (TMLR)"
+    doc-url: https://arxiv.org/abs/2305.16307
+    venue: journal
+    code: https://ai4bharat.iitm.ac.in/indic-trans2
+  - layout: paper
+    selected: no
+    paper-type: preprint
+    year: 2023
+    title: "A Comprehensive Analysis of Adapter Efficiency"
+    authors: "Nandini Mundra, Sumanth Doddapaneni, Raj Dabre, Anoop Kunchukuttan, Ratish Puduppully, Mitesh M Khapra"
+    booktitle: "axXiv Preprint"
+    doc-url: https://arxiv.org/abs/2305.07491
+    venue: conference
+    code: https://github.com/AI4Bharat/adapter-efficiency
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2023
+    title: "Multi-Document Summarization with Centroid-Based Pretraining"
+    authors: "Ratish Surendran Puduppully, Parag Jain, Nancy Chen, Mark Steedman"
+    booktitle: "Proceedings of ACL"
+    doc-url: https://aclanthology.org/2023.acl-short.13
+    venue: conference
+    code: https://github.com/ratishsp/centrum
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2022
+    title: "IndicNLG Suite: Multilingual Datasets for Diverse NLG Tasks in Indic Languages"
+    authors: "Aman Kumar, Himani Shrotriya, Prachi Sahu, Raj Dabre, Ratish Puduppully, Anoop Kunchukuttan, Amogh Mishra, Mitesh M. Khapra, Pratyush Kumar"
+    booktitle: "Proceedings of EMNLP"
+    doc-url: https://aclanthology.org/2022.emnlp-main.360
+    venue: conference
+    code: https://indicnlp.ai4bharat.org/indicnlg-suite/
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2022
+    title: "Data-to-text Generation with Variational Sequential Planning."
+    authors: "Ratish Puduppully and Yao Fu and Mirella Lapata"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL)"
+    doc-url: https://arxiv.org/abs/2202.13756
+    venue: journal
+    code: https://github.com/ratishsp/data2text-seq-plan-py
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2022
+    title: "IndicBART: A Pre-trained Model for Natural Language Generation of Indic Languages"
+    authors: "Raj Dabre, Himani Shrotriya, Anoop Kunchukuttan, Ratish Puduppully, Mitesh M. Khapra, Pratyush Kumar"
+    booktitle: "Findings of ACL"
+    doc-url: https://arxiv.org/abs/2109.02903
+    venue: conference
+    code: https://indicnlp.ai4bharat.org/indic-bart
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2021
+    title: "Data-to-text Generation with Macro Planning."
+    authors: "Ratish Puduppully and Mirella Lapata"
+    booktitle: "Transactions of the Association for Computational Linguistics (TACL)"
+    doc-url: https://arxiv.org/abs/2102.02723
+    venue: journal
+    code: https://github.com/ratishsp/data2text-macro-plan-py
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2019
+    title: " University of Edinburgh's submission to the Document-level Generation and Translation Shared Task."
+    authors: "Ratish Puduppully, Jonathan Mallinson, Mirella Lapata"
+    booktitle: "Proceedings of Workshop on Neural Generation and Translation, EMNLP"
+    doc-url: https://www.aclweb.org/anthology/D19-5630/
+    venue: workshop
+    code: https://github.com/ratishsp/data2text-table-plan-py
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2019
+    title: " Data-to-text Generation with Entity Modeling."
+    authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
+    booktitle: "Proceedings of ACL"
+    doc-url: https://www.aclweb.org/anthology/P19-1195/
+    venue: conference
+    code: https://github.com/ratishsp/data2text-entity-py
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2019
+    title: " Data-to-Text Generation with Content Selection and Planning"
+    authors: "Ratish Puduppully, Li Dong, Mirella Lapata"
+    booktitle: "Proceedings of AAAI"
+    doc-url: https://arxiv.org/abs/1809.00582
+    venue: conference
+    code: https://github.com/ratishsp/data2text-plan-py
+  - layout: paper
+    selected: no
+    year: 2017
+    paper-type: inproceedings
+    title: "Transition-Based Deep Input Linearization"
+    authors: "Ratish Puduppully, Yue Zhang and Manish Shrivastava"
+    booktitle: "Proceedings of EACL"
+    doc-url: http://aclweb.org/anthology/E/E17/E17-1061.pdf
+    venue: conference
+    code: https://github.com/SUTDNLP/ZGen/tree/deepinputlinearization
+  - layout: paper
+    year: 2016
+    selected: no
+    paper-type: inproceedings
+    title: "Transition-Based Syntactic Linearization with Lookahead Features"
+    authors: "Ratish Puduppully, Yue Zhang and Manish Shrivastava"
+    booktitle: Proceedings of NAACL
+    booktitle-url: http://naacl.org/naacl-hlt-2016/
+    doc-url: https://www.aclweb.org/anthology/N/N16/N16-1058.pdf
+    venue: conference
+    code: https://github.com/SUTDNLP/ZGen/releases/tag/v0.2
+  - layout: paper
+    year: 2015
+    selected: no
+    paper-type: inproceedings
+    title: "Brahmi-Net - An online system for transliteration and script conversion for Indian languages"
+    authors: "Anoop Kunchukuttan*, Ratish Puduppully* and Pushpak Bhattacharyya"
+    booktitle: Proceedings of NAACL-HLT Demonstrations
+    booktitle-url: http://naacl.org/naacl-hlt-2015/
+    doc-url: https://www.aclweb.org/anthology/N15-3017
+    code: http://www.cfilt.iitb.ac.in/brahminet/
+    venue: workshop
+  - layout: paper
+    year: 2014
+    selected: no
+    paper-type: inproceedings
+    title: "Merging Verb Senses of Hindi WordNet using Word Embeddings"
+    authors: "Sudha Bhingardive, Ratish Puduppully, Dhirendra Singh and Pushpak Bhattacharyya"
+    booktitle: Proceedings of International Conference on Natural Language Processing (ICON)
+    booktitle-url: http://ltrc.iiit.ac.in/icon/2014/
+    doc-url: https://www.cse.iitb.ac.in/~pb/papers/icon14-merging-verb-senses.pdf
+    venue: conference
+  - layout: paper
+    year: 2014
+    selected: no
+    paper-type: inproceedings
+    title: "The IIT Bombay SMT System for ICON 2014 Tools Contest"
+    authors: "Anoop Kunchukuttan, Ratish Puduppully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya"
+    booktitle: Proceedings of International Conference on Natural Language Processing (ICON) Tools Contest
+    booktitle-url: http://ltrc.iiit.ac.in/icon/2014/
+    doc-url: https://www.cse.iitb.ac.in/~anoopk/publications/icon_2014_iitbsys.pdf
+    venue: workshop
